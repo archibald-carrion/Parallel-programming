@@ -1,5 +1,5 @@
 [package]
-name = "mailbox"
+name = "rust_std_thread"
 version = "0.1.0"
 edition = "2021"
 
